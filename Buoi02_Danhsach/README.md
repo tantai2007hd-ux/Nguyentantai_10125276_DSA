@@ -1,7 +1,7 @@
 # Buổi 02 – Danh sách
 
-- **Họ tên:** Trần Gia Huy
-- **MSV:** 10125157
+- **Họ tên:** Nguyễn Tấn Tài 
+- **MSV:** 10125276
 - **Lớp:** 10125O.1
 
 ## 1. Bài đã làm
